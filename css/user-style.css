@@ -1,0 +1,194 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+.overlay {
+    background-image: url('https://static.htmlpage.cn/editor/images/assets/bgthings_08.jpg');
+}
+
+.smoothScroll {
+    position: relative;
+    vertical-align: top;
+    color: #7a9f2a;
+}
+
+.embed-responsive.embed-responsive-16by9 {
+    background-image: url("https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/4527/28000042wz6o.png");
+    background-size: cover;
+}
+
+.img-responsive {
+    background-color: rgb(0, 0, 0);
+    width: 672.5999938964844px;
+    height: 262px;
+}
+
+.navbar.custom-navbar.navbar-fixed-top {
+    background-image: url("https://static.htmlpage.cn/editor/images/assets/bgthings_08.jpg");
+}
+
+.c14613 {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(217, 217, 227);
+    border-right-color: rgb(217, 217, 227);
+    border-bottom-color: rgb(217, 217, 227);
+    border-left-color: rgb(217, 217, 227);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    --tw-border-spacing-x: 0;
+    --tw-border-spacing-y: 0;
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    --tw-scroll-snap-strictness: proximity;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(69,89,164,.5);
+    --tw-ring-offset-shadow: 0 0 transparent;
+    --tw-ring-shadow: 0 0 transparent;
+    --tw-shadow: 0 0 transparent;
+    --tw-shadow-colored: 0 0 transparent;
+    font-weight: 600;
+    color: var(--tw-prose-bold);
+    font-family: Söhne, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    letter-spacing: normal;
+    text-transform: none;
+    white-space-collapse: preserve;
+    background-color: rgb(247, 247, 248);
+}
+
+.c14663 {
+    color: rgb(55, 65, 81);
+    font-family: Söhne, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    white-space-collapse: preserve;
+    background-color: rgb(247, 247, 248);
+}
+
+.c14807 {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(217, 217, 227);
+    border-right-color: rgb(217, 217, 227);
+    border-bottom-color: rgb(217, 217, 227);
+    border-left-color: rgb(217, 217, 227);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    --tw-border-spacing-x: 0;
+    --tw-border-spacing-y: 0;
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    --tw-scroll-snap-strictness: proximity;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(69,89,164,.5);
+    --tw-ring-offset-shadow: 0 0 transparent;
+    --tw-ring-shadow: 0 0 transparent;
+    --tw-shadow: 0 0 transparent;
+    --tw-shadow-colored: 0 0 transparent;
+    font-weight: 600;
+    color: var(--tw-prose-bold);
+    font-family: Söhne, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    letter-spacing: normal;
+    text-transform: none;
+    white-space-collapse: preserve;
+    background-color: rgb(247, 247, 248);
+}
+
+.c14900 {
+    color: rgb(55, 65, 81);
+    font-family: Söhne, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    white-space-collapse: preserve;
+    background-color: rgb(247, 247, 248);
+}
+
+.c16205 {
+    color: rgb(55, 65, 81);
+    font-family: Söhne, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    white-space-collapse: preserve;
+    background-color: rgb(247, 247, 248);
+}
+
+.c14934 {
+    font-size: 12.0pt;
+    font-family: 宋体;
+    mso-bidi-font-family: "Times New Roman";
+    mso-bidi-theme-font: minor-bidi;
+    mso-ansi-language: EN-US;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: AR-SA;
+}
